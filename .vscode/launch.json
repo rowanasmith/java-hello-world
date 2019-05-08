@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PostgreSQLJDBC",
+            "request": "launch",
+            "mainClass": "PostgreSQLJDBC"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Application",
             "request": "launch",
             "mainClass": "main.java.hello.Application"
